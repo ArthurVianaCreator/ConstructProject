@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1748642598
+#1748653126
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -20,6 +20,8 @@ images/bggrass-sheet0.png
 images/cenario21-sheet0.png
 images/bg3.png
 images/fade1-sheet0.png
+images/cenario4-sheet0.png
+images/cenario5-sheet0.png
 images/hud_heart-sheet0.png
 images/rain.png
 images/player-sheet0.png
