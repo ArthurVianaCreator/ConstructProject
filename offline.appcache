@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1748653126
+#1748703970
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -11,7 +11,6 @@ images/buttonw-sheet0.png
 images/buttone-sheet0.png
 images/cenario1-sheet0.png
 images/cenario1-sheet1.png
-images/cenario1-sheet2.png
 images/cenario2-sheet0.png
 images/cenario3-sheet0.png
 images/bg1.png
@@ -21,9 +20,16 @@ images/cenario21-sheet0.png
 images/bg3.png
 images/fade1-sheet0.png
 images/cenario4-sheet0.png
+images/conceptmap-sheet0.png
 images/cenario5-sheet0.png
+images/cenario5-sheet1.png
 images/hud_heart-sheet0.png
 images/rain.png
+images/enemy_canibal-sheet0.png
+images/enemy_canibal-sheet1.png
+images/enemy_canibal-sheet2.png
+images/canibalbarrier-sheet0.png
+images/sprite-sheet0.png
 images/player-sheet0.png
 images/player-sheet1.png
 icon-16.png
