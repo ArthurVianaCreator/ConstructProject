@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1748799849
+#1748809820
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -9,6 +9,8 @@ images/buttona_hud-sheet0.png
 images/buttons_hud-sheet0.png
 images/buttonw_hud-sheet0.png
 images/buttone-sheet0.png
+images/bg-sheet0.png
+images/menu_player-sheet0.png
 images/cenario1-sheet0.png
 images/cenario1-sheet1.png
 images/cenario2-sheet0.png
@@ -18,7 +20,6 @@ images/bg2.png
 images/bggrass-sheet0.png
 images/cenario21-sheet0.png
 images/bg3.png
-images/fade1-sheet0.png
 images/cenario4-sheet0.png
 images/conceptmap-sheet0.png
 images/cenario5-sheet0.png
@@ -29,6 +30,7 @@ images/barrier-sheet0.png
 images/cenario8-sheet0.png
 images/cenario9-sheet0.png
 images/bg4-sheet0.png
+images/cenario10-sheet0.png
 images/hud_heart-sheet0.png
 images/rain.png
 images/enemy_canibal-sheet0.png
@@ -36,7 +38,6 @@ images/enemy_sarcedot-sheet0.png
 images/player-sheet0.png
 images/player-sheet1.png
 media/walk.ogg
-media/jumpscare.ogg
 icon-16.png
 icon-32.png
 icon-114.png
