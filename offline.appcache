@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1748819740
+#1748903647
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -11,6 +11,8 @@ images/buttonw_hud-sheet0.png
 images/buttone-sheet0.png
 images/bg-sheet0.png
 images/menu_player-sheet0.png
+images/menu_player-sheet1.png
+images/savamption_logo-sheet0.png
 images/cenario1-sheet0.png
 images/cenario1-sheet1.png
 images/cenario2-sheet0.png
@@ -31,13 +33,15 @@ images/cenario8-sheet0.png
 images/cenario9-sheet0.png
 images/bg4-sheet0.png
 images/cenario10-sheet0.png
+images/cenario11-sheet0.png
+images/cenario12-sheet0.png
 images/hud_heart-sheet0.png
 images/rain.png
 images/enemy_canibal-sheet0.png
 images/enemy_sarcedot-sheet0.png
 images/player-sheet0.png
 images/player-sheet1.png
-media/walk.ogg
+images/light-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
