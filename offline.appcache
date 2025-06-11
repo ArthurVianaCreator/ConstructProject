@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1749596833
+#1749603367
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -43,6 +43,7 @@ images/enemy_sarcedot-sheet0.png
 images/cow-sheet0.png
 images/player-sheet0.png
 images/player-sheet1.png
+images/candle-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
