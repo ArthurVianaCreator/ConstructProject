@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749675149,
+	"version": 1749682215,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,7 @@
 		"images/quadro5-sheet0.png",
 		"images/quadro6-sheet0.png",
 		"images/quadro7-sheet0.png",
+		"images/bg6.png",
 		"images/hud_heart-sheet0.png",
 		"images/rain.png",
 		"images/light-sheet0.png",
@@ -47,6 +48,7 @@
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
 		"images/candle-sheet0.png",
+		"images/escada-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
