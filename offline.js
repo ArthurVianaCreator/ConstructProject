@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749774887,
+	"version": 1749867213,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -50,6 +50,7 @@
 		"images/light-sheet0.png",
 		"images/blood.png",
 		"images/enemy_canibal-sheet0.png",
+		"images/enemy_canibal-sheet1.png",
 		"images/enemy_sarcedot-sheet0.png",
 		"images/cow-sheet0.png",
 		"images/player-sheet0.png",
