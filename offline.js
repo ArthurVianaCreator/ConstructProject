@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749867213,
+	"version": 1749949567,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,10 +10,6 @@
 		"images/buttons_hud-sheet0.png",
 		"images/buttonw_hud-sheet0.png",
 		"images/buttone-sheet0.png",
-		"images/buttondiagonalcimaesquerda-sheet0.png",
-		"images/buttondiagonalcimadireita-sheet0.png",
-		"images/buttondiagonalbaixoesquerda-sheet0.png",
-		"images/buttondiagonalbaixodireita-sheet0.png",
 		"images/house1-sheet0.png",
 		"images/house1-sheet1.png",
 		"images/ativarcenario-sheet0.png",
@@ -55,8 +51,9 @@
 		"images/cow-sheet0.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
-		"images/player-sheet2.png",
 		"images/candle-sheet0.png",
+		"images/menubg-sheet0.png",
+		"images/logo-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
