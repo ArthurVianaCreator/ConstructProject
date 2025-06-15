@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1750006780,
+	"version": 1750031486,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -57,6 +57,8 @@
 		"images/candle-sheet0.png",
 		"images/menubg-sheet0.png",
 		"images/logo-sheet0.png",
+		"media/ineedtofindmymother.m4a",
+		"media/ineedtofindmymother.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
